@@ -1,0 +1,15 @@
+﻿Quais são os principais tipos de Inteligência Artificial existentes hoje?
+
+A inteligência artificial é classificada por sua capacidade em limitada, geral ou superinteligência, sendo os modelos atuais focados em tarefas específicas e memória limitada. Atualmente, destacam-se as IAs preditivas, que antecipam comportamentos, e as generativas, que utilizam aprendizagem de máquina para criar novos conteúdos em resposta a comandos. Esses sistemas operam através de métodos fundamentais como o aprendizado de máquina (machine learning) e o aprendizado profundo (deep learning).
+
+
+Como o Deep Learning funciona de forma similar aos neurônios?
+
+O Deep Learning utiliza redes neurais artificiais inspiradas na estrutura do cérebro humano e em suas conexões sinápticas. O sistema emula os neurônios através de unidades interconectadas que processam informações em múltiplas camadas para reconhecer padrões complexos. Essa arquitetura permite que a tecnologia aprenda e tome decisões de forma análoga à cognição biológica.
+
+
+Quais são os benefícios e riscos da IA no cotidiano?
+
+
+A IA otimiza o cotidiano através da automação de tarefas, personalização de serviços e avanços em áreas como saúde e segurança. Paralelamente, gera riscos à privacidade de dados, potencial de desemprego estrutural e propagação de vieses e desinformação. O uso seguro exige vigilância ética para preservar a autonomia e o pensamento crítico humano.
+
